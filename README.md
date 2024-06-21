@@ -12,5 +12,8 @@
 https://www.womeninai.co/waidatathon-details
 ![6](https://github.com/Karincheong/-Datathon2021-Is-education-level-a-factor-in-domestic-violence-statistics-/assets/68969621/1b8d8d92-ed00-4cd7-bb26-e390724e1330)
 
+### 1st Runner Up Award Achieved: `
+![1](https://github.com/Karincheong/-Datathon2021-Is-education-level-a-factor-in-domestic-violence-statistics-/assets/68969621/ba5c01ff-6627-4a72-9604-ff5f8a10bdbe)
+
 ### Full Presentation Available here:
 [Is education level a factor in domestic violence statistics.pdf](https://github.com/Karincheong/-Datathon2021-Is-education-level-a-factor-in-domestic-violence-statistics-/blob/53b9756e2af204703dde798c5dfe91f475cb5cb8/Is%20education%20level%20a%20factor%20in%20domestic%20violence%20statistics.pdf)
